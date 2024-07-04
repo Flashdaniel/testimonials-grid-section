@@ -26,6 +26,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [here](https://www.frontendmentor.io/solutions/testimonials-grid-with-grid-flexbox-fluid-type-and-fluid-space-DZFX9eYcCR)
 - Live Site URL: [testimonials-grid](https://testimonials-grid-section3013.netlify.app/)
 
 ## My process
