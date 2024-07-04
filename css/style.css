@@ -1,7 +1,7 @@
 :root {
-  --step--2: clamp(0.5642rem, 0.4714rem + 0.4641vi, 0.7035rem);
-  --step--1: clamp(0.6771rem, 0.5033rem + 0.8688vi, 0.9377rem);
-  --step-0: clamp(0.8125rem, 0.5208rem + 1.4583vi, 1.25rem);
+  --step--2: clamp(0.5642rem, 0.4051rem + 0.7957vi, 0.7035rem);
+  --step--1: clamp(0.6771rem, 0.3792rem + 1.4894vi, 0.9377rem);
+  --step-0: clamp(0.8125rem, 0.3125rem + 2.5vi, 1.25rem);
   --space-3xs-3xs: clamp(0.1875rem, 0.1042rem + 0.4167vi, 0.3125rem);
   --space-3xs-2xs: clamp(0.1875rem, -0.1042rem + 1.4583vi, 0.625rem);
   --space-xs-s: clamp(0.625rem, 0.2083rem + 2.0833vi, 1.25rem);
