@@ -8,6 +8,7 @@
   --space-xs-s: clamp(0.625rem, -0.4861rem + 5.5556vi, 1.25rem);
   --space-s-m: clamp(0.8125rem, -1.0764rem + 9.4444vi, 1.875rem);
   --space-m-l: clamp(1.25rem, -0.9722rem + 11.1111vi, 2.5rem);
+  --space-l-xl: clamp(1.625rem, -2.1528rem + 18.8889vi, 3.75rem);
   --space-xl-2xl: clamp(2.4375rem, -2.1181rem + 22.7778vi, 5rem);
   --space-2xl-3xl: clamp(3.25rem, -4.3056rem + 37.7778vi, 7.5rem);
   --Moderate-violet: hsl(263, 55%, 52%);
@@ -64,9 +65,8 @@ a {
 
 /* Utilies */
 .wrapper {
-  padding-inline: var(--space-xl-2xl);
+  padding-inline: var(--space-l-xl);
   padding-block: var(--space-2xl-3xl);
-  margin-inline: auto;
   height: 100vh;
 }
 
