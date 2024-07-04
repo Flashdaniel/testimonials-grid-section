@@ -22,7 +22,7 @@
 
 /* Global */
 body {
-  background-color: var(--Light-gray, #cfcfcf);
+  background-color: var(--Light-grayish-blue, #ecf2f8);
   font-family: var(--font, sans-serif);
 }
 
